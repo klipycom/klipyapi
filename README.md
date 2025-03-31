@@ -6,18 +6,18 @@ Explore our API offerings below:
 
 ## KLIPY API Products
 
-### 1. **KLIPY GIF API**
-KLIPY's **GIF API** provides access to a rich collection of GIFs that can be integrated into your applications. Use this API to enhance user engagement by adding dynamic GIF content to your platform. With built-in monetization features, it also helps you generate revenue from ads placed within GIFs.
+### 1. **GIF API**
+KLIPY's **GIFs API** provides access to a rich collection of GIFs that can be integrated into your applications. Use this API to enhance user engagement by adding dynamic GIF content to your platform. With built-in monetization features, it also helps you generate revenue from ads placed within GIFs.
 
 - [GIF API](https://docs.klipy.com/gif-api)
 
-### 2. **KLIPY Stickers API**
+### 2. **Sticker API**
 KLIPY's **Stickers API** allows you to access a vast library of stickers, perfect for improving communication and user interaction in your platform. Easily integrate animated stickers into your messaging, social media, or other creative applications.
 
 - [Stickers API](https://docs.klipy.com/stickers-api)
 
-### 3. **KLIPY Clips API**
-The **KLIPY Clips API** lets you embed short video clips into your platform, enhancing multimedia content and offering more engagement options for users. This API is perfect for media platforms, social apps, or any project looking to integrate short, shareable video clips.
+### 3. **Clip API**
+The **Clips API** lets you embed short video clips into your platform, enhancing multimedia content and offering more engagement options for users. This API is perfect for media platforms, social apps, or any project looking to integrate short, shareable video clips.
 
 - [Clips API](https://docs.klipy.com/clips-api)
 
